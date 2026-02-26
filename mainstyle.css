@@ -1,0 +1,476 @@
+@font-face {
+    font-family: "pixie";
+    src: url("assets/fonts/pixeleum-48.woff2") format("woff2"),
+    url("assets/fonts/pixeleum-48.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    } 
+    
+    h1, h3 {
+        color: whitesmoke;
+        font-family: pixie;
+    }
+
+    #option_bodyy{
+        background-color: black;
+        color: whitesmoke;
+        font-family: pixie;
+    }
+    
+    #test_choice{
+        color: whitesmoke;
+        text-decoration: none;
+        font-size: 20px;
+    }
+    
+    #test_choice:hover{
+        color: darkgrey;
+    }
+    
+    #form_body{
+      font-family: pixie;
+      background-image: url('assets/barr.jpg');
+      background-size: contain;
+    }
+  
+    #form_section{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        height: fit-content;
+        width: 100%;
+        
+        
+    }
+
+    .form-box{
+        position: relative;
+        width: 400px;
+        height: 450px;
+        background: transparent;
+        border: 2px solid rgba(255,255,255,0.5);
+        border-radius: 20px;
+        backdrop-filter: blur(15px);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    
+    }
+
+
+    h2{
+        font-size: 2em;
+        color: #fff;
+        text-align: center;
+    }
+    .inputbox{
+        position: relative;
+        margin: 30px 0;
+        width: 310px;
+        border-bottom: 2px solid #fff;
+    }
+    .inputbox label{
+        position: absolute;
+        top: 50%;
+        left: 5px;
+        transform: translateY(-50%);
+        color: #fff;
+        font-size: 1em;
+        pointer-events: none;
+        transition: .5s;
+    }
+    input:focus ~ label,
+    input:valid ~ label{
+    top: -5px;
+    }
+    .inputbox input {
+        width: 100%;
+        height: 50px;
+        background: transparent;
+        border: none;
+        outline: none;
+        font-size: 1em;
+        padding:0 35px 0 5px;
+        color: #fff;
+    }
+    .inputbox ion-icon{
+        position: absolute;
+        right: 8px;
+        color: #fff;
+        font-size: 1.2em;
+        top: 20px;
+    }
+    .forget{
+        margin: -15px 0 15px ;
+        font-size: .9em;
+        color: #fff;
+        display: flex;
+        justify-content: space-between;  
+    }
+    
+    .forget label input{
+        margin-right: 3px;
+        
+    }
+    .forget label a{
+        color: #fff;
+        text-decoration: none;
+    }
+    .forget label a:hover{
+        text-decoration: underline;
+    }
+    button{
+        width: 300px;
+        height: 40px;
+        border-radius: 40px;
+        background: #fff;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        font-size: 1em;
+        font-weight: 600;
+        margin-bottom: 15px;
+    }
+    .register{
+        font-size: .9em;
+        color: #fff;
+        text-align: center;
+        margin: 25px 0 10px;
+    }
+    .register p a{
+        text-decoration: none;
+        color: #fff;
+        font-weight: 600;
+    }
+    .register p a:hover{
+        text-decoration: underline;
+    }
+
+    .avatar{
+        width: 250px;
+        height: 250px;
+    }
+    
+    #forumsection{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        width: 100%;
+        margin-bottom: 100px;
+    }
+    
+    .biba{
+       background-image: url(assets/giga.gif);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+        height: 130px;
+        width: 130px;
+    }
+    
+    .welcome h1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+        color: whitesmoke;
+        font-size: 60px;
+        margin-top: 50px;
+        
+    }
+    
+    .boba{
+        background-image: url(assets/reversegiga.gif);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        background-size: cover;
+        height: 130px;
+        width: 130px;
+    }
+    
+    
+    #forum_body { 
+      font-family: pixie;
+      background-image: url('assets/barr.jpg');
+      background-size: contain;
+    }
+
+
+    
+    header {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) );
+    
+    }
+    .horizontal_style{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+    
+
+    
+    header a {
+      color: whitesmoke;
+      padding: 12px;
+      text-decoration: none;
+      font-size: 18px; 
+      border-radius: 4px;
+    }
+    
+    header a.logo {
+      font-size: 25px;
+      font-weight: bold;
+    }
+    
+    
+    
+    #forum_section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        width: 100%;
+        margin-bottom: 100px;
+    }
+    
+    .menushka{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 15px;
+        width: 100%;
+        flex-direction: row;
+        padding: 20px 10px;
+    }
+    .menushka a{
+        color: whitesmoke;
+        padding: 12px;
+        text-decoration: none;
+        padding: 20px 40px;
+        font-size: 19px;
+    }
+    .menushka a:hover{
+          color: darkgrey;
+    }
+    #mainn {
+        position: relative;
+        width: 100%;
+        height: 700px;
+        justify-content: center;
+        align-items: center;
+    }
+    main div{
+        margin-left: auto;
+        margin-right: auto;
+        position: relative;
+        height: 100px;
+        border: 2px solid rgba(255,255,255,0.5);
+        border-radius: 20px;
+        backdrop-filter: blur(15px);
+        background: linear-gradient( rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4) );
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+        width: 85%;
+        }
+    
+    #test_body{
+      margin: 0;
+      font-family: pixie;
+      background-image: url('assets/barr.jpg');
+      background-size: contain;
+    }
+    
+    .testobox{
+        position: relative;
+        width: 1100px;
+        height: 1100px;
+        background: transparent;
+        border: 2px solid rgba(255,255,255,0.5);
+        border-radius: 20px;
+        backdrop-filter: blur(15px);
+    }
+    
+    .testik_section{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        width: 100%;
+    }
+    
+    .quizsection{
+        margin-left: 30px;
+        padding-left: 30px;
+        color: whitesmoke;
+    }
+    
+    input[value="Submit"] {
+        width: 100px;
+        height: 40px;
+        border-radius: 40px;
+        background: #fff;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        font-size: 1em;
+        font-weight: 600;
+        font-family: pixie;
+        margin: 30px;
+        
+    }
+    
+    input[value="Reset"] {
+        width: 100px;
+        height: 40px;
+        border-radius: 40px;
+        background: #fff;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        font-size: 1em;
+        font-weight: 600;
+        font-family: pixie;
+        margin: 30px;
+    }
+    
+    .answer{
+        position: relative;
+        padding-top: 15px;
+        color: whitesmoke;
+        margin-left: 40px;
+        
+    }
+    
+    #test_choice1{
+        color: whitesmoke;
+        font-family: pixie;
+        text-decoration: none;
+        font-size: 20px;
+    }
+
+.admin-list {
+    width: 100%;
+}
+
+.admin-card {
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    height: 100px;
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.4));
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+    gap: 20px;
+}
+
+.admin-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+}
+.forum-wrap {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.card {
+    border: 2px solid rgba(255,255,255,0.5);
+    border-radius: 20px;
+    backdrop-filter: blur(15px);
+    background: linear-gradient(rgba(0,0,0,0.05), rgba(0,0,0,0.45));
+    padding: 18px 20px;
+    margin: 18px 0;
+}
+
+    .card h2 {
+        margin: 0 0 6px 0;
+        color: whitesmoke;
+        font-size: 26px;
+    }
+
+.meta {
+    color: rgba(255,255,255,0.75);
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+.body {
+    color: whitesmoke;
+    font-size: 16px;
+    line-height: 1.4;
+    white-space: pre-wrap;
+}
+
+.small-title {
+    color: whitesmoke;
+    margin: 12px 0 6px;
+    font-size: 16px;
+    opacity: 0.9;
+}
+
+.comment {
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid rgba(255,255,255,0.18);
+    color: rgba(255,255,255,0.85);
+    font-size: 14px;
+    white-space: pre-wrap;
+}
+
+    .comment b {
+        color: whitesmoke;
+    }
+
+.comment-form textarea, .post-form textarea {
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.35);
+    background: rgba(0,0,0,0.25);
+    color: whitesmoke;
+    padding: 10px;
+    outline: none;
+    resize: vertical;
+    font-family: inherit;
+}
+
+.post-form input[type="text"] {
+    width: 100%;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.35);
+    background: rgba(0,0,0,0.25);
+    color: whitesmoke;
+    padding: 10px;
+    outline: none;
+    font-family: inherit;
+    margin-bottom: 10px;
+}
+
+.msg-error {
+    color: #ff8f8f;
+    margin: 8px 0;
+}
+
+.hint {
+    color: rgba(255,255,255,0.75);
+    font-size: 14px;
+}

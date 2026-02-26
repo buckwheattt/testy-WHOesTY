@@ -1,0 +1,89 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+</head>
+<body>
+    <script>
+        (function () {
+            var doggoImage = new Image();
+            doggoImage.src = "https://w7.pngwing.com/pngs/394/518/png-transparent-brown-shiba-inu-doge-weather-shiba-inu-doge-click-doge-snake-doge-miscellaneous-mammal-carnivoran-thumbnail.png";
+            var doggos = [];
+            var canvas, ctx;
+            var WIDTH, HEIGHT;
+            var hslRot = 0;
+            var m, t;
+            doggoImage.onload = function () {
+                init();
+                requestAnimationFrame(animate);
+                addEventListener("resize", resize);
+            }
+            function resize() {
+                WIDTH = canvas.width = innerWidth;
+                HEIGHT = canvas.height = innerHeight;
+                m = Math.min(WIDTH, HEIGHT) / 900;
+            }
+            function init() {
+                canvas = document.createElement("canvas");
+                canvas.style.zIndex = "9999";
+                canvas.style.position = "fixed";
+                canvas.style.left = "0";
+                canvas.style.top = "0";
+                canvas.style.pointerEvents = "none";
+                document.body.appendChild(canvas);
+                ctx = canvas.getContext("2d");
+                resize();
+                t = setInterval(function () {
+                    doggos.push({
+                        x: Math.random() * WIDTH,
+                        y: Math.random() * HEIGHT,
+                        width: rand(100, 250),
+                        height: rand(100, 250),
+                        vx: rand(4, 20),
+                        vy: rand(4, 20)
+                    });
+                    if (doggos.length === 30) {
+                        clearInterval(t);
+                    }
+                }, 3000);
+            }
+            function animate() {
+                hslRot += 5;
+                ctx.beginPath();
+                ctx.clearRect(0, 0, WIDTH, HEIGHT);
+                ctx.fillStyle = "hsla(" + hslRot + ", 100%, " + (Date.now() / 4 % 50) + "%, 0.3)";
+                ctx.fillRect(0, 0, WIDTH, HEIGHT);
+                for (var i = 0; i < doggos.length; ++i) {
+                    var doggo = doggos[i];
+                    var scaledWidth = doggo.width * m;
+                    var scaledHeight = doggo.height * m;
+                    doggo.x += doggo.vx * m;
+                    doggo.y += doggo.vy * m;
+                    if (doggo.x < 0) {
+                        doggo.x = 0;
+                        doggo.vx *= -1;
+                    } else if (doggo.x + scaledWidth > WIDTH) {
+                        doggo.x = WIDTH - scaledWidth;
+                        doggo.vx *= -1;
+                    }
+                    if (doggo.y < 0) {
+                        doggo.y = 0;
+                        doggo.vy *= -1;
+                    } else if (doggo.y + scaledHeight > HEIGHT) {
+                        doggo.y = HEIGHT - scaledHeight;
+                        doggo.vy *= -1;
+                    }
+                    ctx.drawImage(doggoImage, doggo.x, doggo.y, scaledWidth, scaledHeight)
+                }
+                requestAnimationFrame(animate);
+            }
+            function rand(min, max) {
+                return Math.random() * (max - min) + min;
+            }
+        })();
+    </script>
+
+</body>
+</html>

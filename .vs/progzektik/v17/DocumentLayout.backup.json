@@ -1,0 +1,448 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CVUT\\zwa\\progzektik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\password_change.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:password_change.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\mozna.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:testy\\testyassets\\mozna.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\admin_users.php||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:admin_users.php||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\ajax-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ajax-script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\login.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:login.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\home.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:home.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\functions.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:functions.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\forum.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:forum.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\check_username.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:check_username.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\connection.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:connection.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\bestpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:testy\\testyassets\\bestpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\toads_answer.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:testy\\testyassets\\toads_answer.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\testy\\result.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:testy\\result.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\testy\\test.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:testy\\test.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\profile.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:profile.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:logout.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\mainstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mainstyle.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\passwordValidation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:passwordValidation.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\signup.php||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:signup.php||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\print-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:print-styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\assets\\happytoad.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\happytoad.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\assets\\sadtoad.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\sadtoad.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\assets\\barr.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\barr.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\dokumentace\\doxygen_documentation_testiky\\html\\search\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:dokumentace\\doxygen_documentation_testiky\\html\\search\\search.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\CVUT\\zwa\\progzektik\\uploads\\noavatar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:uploads\\noavatar.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "functions.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\functions.php",
+              "RelativeDocumentMoniker": "functions.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\functions.php",
+              "RelativeToolTip": "functions.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T20:29:20.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\home.php",
+              "RelativeDocumentMoniker": "home.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\home.php",
+              "RelativeToolTip": "home.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-16T18:38:33.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\login.php",
+              "RelativeDocumentMoniker": "login.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\login.php",
+              "RelativeToolTip": "login.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-15T23:26:31.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ajax-script.js",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\ajax-script.js",
+              "RelativeDocumentMoniker": "ajax-script.js",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\ajax-script.js",
+              "RelativeToolTip": "ajax-script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-15T23:44:04.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin_users.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\admin_users.php",
+              "RelativeDocumentMoniker": "admin_users.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\admin_users.php",
+              "RelativeToolTip": "admin_users.php",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T21:29:02.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mozna.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\mozna.php",
+              "RelativeDocumentMoniker": "testy\\testyassets\\mozna.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\mozna.php",
+              "RelativeToolTip": "testy\\testyassets\\mozna.php",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswEAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T19:54:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "password_change.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\password_change.php",
+              "RelativeDocumentMoniker": "password_change.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\password_change.php",
+              "RelativeToolTip": "password_change.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T20:42:33.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "forum.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\forum.php",
+              "RelativeDocumentMoniker": "forum.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\forum.php",
+              "RelativeToolTip": "forum.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T22:43:09.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "check_username.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\check_username.php",
+              "RelativeDocumentMoniker": "check_username.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\check_username.php",
+              "RelativeToolTip": "check_username.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-15T23:53:28.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "connection.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\connection.php",
+              "RelativeDocumentMoniker": "connection.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\connection.php",
+              "RelativeToolTip": "connection.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T18:49:20.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bestpage.html",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\bestpage.html",
+              "RelativeDocumentMoniker": "testy\\testyassets\\bestpage.html",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\bestpage.html",
+              "RelativeToolTip": "testy\\testyassets\\bestpage.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-12-18T19:54:20.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "toads_answer.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\toads_answer.php",
+              "RelativeDocumentMoniker": "testy\\testyassets\\toads_answer.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\testy\\testyassets\\toads_answer.php",
+              "RelativeToolTip": "testy\\testyassets\\toads_answer.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T20:12:49.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "result.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\testy\\result.php",
+              "RelativeDocumentMoniker": "testy\\result.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\testy\\result.php",
+              "RelativeToolTip": "testy\\result.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T19:31:08.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "test.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\testy\\test.php",
+              "RelativeDocumentMoniker": "testy\\test.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\testy\\test.php",
+              "RelativeToolTip": "testy\\test.php",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T19:01:05.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "profile.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\profile.php",
+              "RelativeDocumentMoniker": "profile.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\profile.php",
+              "RelativeToolTip": "profile.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T20:22:31.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "logout.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\logout.php",
+              "RelativeDocumentMoniker": "logout.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\logout.php",
+              "RelativeToolTip": "logout.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-18T20:29:33.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "mainstyle.css",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\mainstyle.css",
+              "RelativeDocumentMoniker": "mainstyle.css",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\mainstyle.css",
+              "RelativeToolTip": "mainstyle.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-18T21:46:03.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "passwordValidation.js",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\passwordValidation.js",
+              "RelativeDocumentMoniker": "passwordValidation.js",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\passwordValidation.js",
+              "RelativeToolTip": "passwordValidation.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-18T20:46:06.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "signup.php",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\signup.php",
+              "RelativeDocumentMoniker": "signup.php",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\signup.php",
+              "RelativeToolTip": "signup.php",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002338|",
+              "WhenOpened": "2025-12-15T23:58:20.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "print-styles.css",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\print-styles.css",
+              "RelativeDocumentMoniker": "print-styles.css",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\print-styles.css",
+              "RelativeToolTip": "print-styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-12-18T21:45:56.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "happytoad.png - PNG [500x500, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\assets\\happytoad.png",
+              "RelativeDocumentMoniker": "assets\\happytoad.png",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\assets\\happytoad.png - PNG [500x500, 32 bit, PNG]",
+              "RelativeToolTip": "assets\\happytoad.png - PNG [500x500, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-18T20:14:25.834Z",
+              "EditorCaption": " - PNG [500x500, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "sadtoad.png - PNG [1000x569, 8 bit, PNG]",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\assets\\sadtoad.png",
+              "RelativeDocumentMoniker": "assets\\sadtoad.png",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\assets\\sadtoad.png - PNG [1000x569, 8 bit, PNG]",
+              "RelativeToolTip": "assets\\sadtoad.png - PNG [1000x569, 8 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-18T20:14:22.428Z",
+              "EditorCaption": " - PNG [1000x569, 8 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "barr.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\assets\\barr.jpg",
+              "RelativeDocumentMoniker": "assets\\barr.jpg",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\assets\\barr.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "RelativeToolTip": "assets\\barr.jpg - Bitmap [1920x1080, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-18T20:00:53.565Z",
+              "EditorCaption": " - Bitmap [1920x1080, 24 bit, JPG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "search.js",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\dokumentace\\doxygen_documentation_testiky\\html\\search\\search.js",
+              "RelativeDocumentMoniker": "dokumentace\\doxygen_documentation_testiky\\html\\search\\search.js",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\dokumentace\\doxygen_documentation_testiky\\html\\search\\search.js",
+              "RelativeToolTip": "dokumentace\\doxygen_documentation_testiky\\html\\search\\search.js",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAYwHICAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-16T00:28:01.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "noavatar.png",
+              "DocumentMoniker": "C:\\CVUT\\zwa\\progzektik\\uploads\\noavatar.png",
+              "RelativeDocumentMoniker": "uploads\\noavatar.png",
+              "ToolTip": "C:\\CVUT\\zwa\\progzektik\\uploads\\noavatar.png",
+              "RelativeToolTip": "uploads\\noavatar.png",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-12-15T23:24:01.522Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
