@@ -1,23 +1,7 @@
 ## Testy-WHOesTY — Elevating Boredom to an Entertaining Experience
 Testy-WHOesTY is a simple, secure web application where users can register, manage a profile (including avatar upload), participate in a forum, and complete interactive tests with results (text/images and optional redirects).  
 
-<p align="center">
-  <a href="https://zwa.toad.cz/~grechsof/progzektik/login.php" 
-     style="text-decoration:none;">
-    <span style="
-      display:inline-block;
-      padding:12px 28px;
-      border:2px solid #ff69b4;
-      border-radius:6px;
-      color:#e5e5e5;
-      background-color:#2b2b2b;
-      font-weight:600;
-      letter-spacing:2px;
-      font-family:sans-serif;">
-      WHAT BAKERY PRODUCT ARE YOU???
-    </span>
-  </a>
-</p>
+[![WHAT BAKERY PRODUCT ARE YOU???](https://img.shields.io/badge/WHAT%20BAKERY%20PRODUCT%20ARE%20YOU%3F%3F%3F-ff69b4?style=for-the-badge&labelColor=2b2b2b&color=ff69b4&logoColor=ff69b4)](https://zwa.toad.cz/~grechsof/progzektik/login.php)
 
 ### Features
 #### Authentication & Accounts  
